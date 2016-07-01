@@ -2,3 +2,4 @@ Hotfixes container created
 
 Hotfix 1 added
 Hotfix 2 added
+Hotfix 3 added
